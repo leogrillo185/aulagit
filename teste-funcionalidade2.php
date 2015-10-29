@@ -1,0 +1,1 @@
+<?php echo "Teste funcionalidade 2";?>
